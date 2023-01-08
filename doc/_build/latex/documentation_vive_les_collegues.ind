@@ -1,0 +1,35 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter A
+  \item \spxentry{ajout\_auto()}\spxextra{dans le module boucle\_automatisation}, \hyperpage{9}
+
+  \indexspace
+  \bigletter B
+  \item \spxentry{boucle\_automatisation}
+    \subitem \spxentry{module}, \hyperpage{9}
+
+  \indexspace
+  \bigletter L
+  \item \spxentry{liste\_metier}
+    \subitem \spxentry{module}, \hyperpage{10}
+
+  \indexspace
+  \bigletter M
+  \item \spxentry{metiers()}\spxextra{dans le module liste\_metier}, \hyperpage{10}
+  \item \spxentry{module}
+    \subitem \spxentry{boucle\_automatisation}, \hyperpage{9}
+    \subitem \spxentry{liste\_metier}, \hyperpage{10}
+
+  \indexspace
+  \bigletter P
+  \item \spxentry{position()}\spxextra{dans le module boucle\_automatisation}, \hyperpage{9}
+
+  \indexspace
+  \bigletter T
+  \item \spxentry{time()}\spxextra{dans le module boucle\_automatisation}, \hyperpage{9}
+
+\end{sphinxtheindex}
